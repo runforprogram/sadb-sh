@@ -25,8 +25,10 @@
   - *File name is left alone if no name is specified.*
 
 ## Add to path 
+...
 chmod +x ./sadb 
 sudo cp ./sadb /usr/local/bin/sadb
+...
 
 ## Add to your bash profile
 ```
