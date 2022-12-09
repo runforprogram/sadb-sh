@@ -28,5 +28,4 @@
 ```
 chmod +x ./sadb 
 sudo cp ./sadb /usr/local/bin/sadb
-
 ```
