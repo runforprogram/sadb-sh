@@ -28,12 +28,5 @@
 ```
 chmod +x ./sadb 
 sudo cp ./sadb /usr/local/bin/sadb
-```
-...
 
-## Add to your bash profile
-```
-...
-alias sadb='sh ~/Scripts/sadb/sadb.sh'
-...
 ```
